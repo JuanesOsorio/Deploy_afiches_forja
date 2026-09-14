@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 9,
+    "width": 593,
+    "height": 791,
+    "isRotated": false,
+    "originalWidth": 613,
+    "originalHeight": 791
+  },
+  "imagePath": "image-targets/Artboard 1_luminance.png",
+  "metadata": null,
+  "name": "Artboard 1",
+  "resources": {
+    "originalImage": "Artboard 1_original.png",
+    "croppedImage": "Artboard 1_cropped.png",
+    "thumbnailImage": "Artboard 1_thumbnail.png",
+    "luminanceImage": "Artboard 1_luminance.png"
+  },
+  "created": 1789343500754,
+  "updated": 1789343500754
+}
